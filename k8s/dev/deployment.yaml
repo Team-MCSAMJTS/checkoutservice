@@ -28,7 +28,7 @@ spec:
                 - ALL
             privileged: false
             readOnlyRootFilesystem: true
-          image: marypearl/checkoutservice:latest
+          image: alade01/checkoutservice:latest
           ports:
           - containerPort: 5050
           readinessProbe:
