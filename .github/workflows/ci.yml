@@ -32,3 +32,5 @@ jobs:
           tags: |
             alade01/checkoutservice:latest
             alade01/checkoutservice:${{ github.sha }}
+
+
